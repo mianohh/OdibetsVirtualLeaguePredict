@@ -3,6 +3,8 @@
  The script then uses statistical analysis to make the predictions.
  For any more updates on the script make the contributions to the creator.
 
-
+ To run the scripts open the terminal and type "Python (scriptname.py)".
+ Make sure you have installed the required python libraries before running the script. 
 
 -Contact the creator through whatsapp +254795415410.
+`
