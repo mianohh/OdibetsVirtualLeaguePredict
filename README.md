@@ -6,5 +6,4 @@
  To run the scripts open the terminal and type "Python (scriptname.py)".
  Make sure you have installed the required python libraries before running the script. 
 
--Contact the creator through whatsapp +254795415410.
-`
+
